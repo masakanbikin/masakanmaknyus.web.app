@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "masakanmankyus",
+    "site": "masakanmakyus",
     "public": "public",
     "ignore": [
       "firebase.json",
